@@ -23,6 +23,7 @@ abstract class Scd extends Abc
 	public void dance()
 	{
 		System.out.println(" Gorurur");
+		System.out.println("guru dudalkar test");
 	}
 	
 }
