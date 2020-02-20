@@ -2,10 +2,10 @@
 public class ReverSString {
 
 	public static void main(String[] args) {
-		String str = "guruisguru";
+		String str = new String("GURUGURUG");
 		char ch,cs;
 		int l = str.length(),ct;
-		for(cs = 'a'; cs <= 'z';cs++)
+		for(cs = 'A'; cs <= 'Z';cs++)
 		{
 			ct = 0;
 			for(int i = 0; i <l;i++)
