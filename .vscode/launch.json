@@ -1,0 +1,104 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NonRepating",
+            "request": "launch",
+            "mainClass": "ImpCoding.NonRepating",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AsArrayList",
+            "request": "launch",
+            "mainClass": "AsArrayList",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayListTest",
+            "request": "launch",
+            "mainClass": "ArrayListTest",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AsArrayList<java_a7cf075c>",
+            "request": "launch",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BalanceParan<java_a7cf075c>",
+            "request": "launch",
+            "mainClass": "BalanceParan",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Guru<java_a7cf075c>",
+            "request": "launch",
+            "mainClass": "Guru",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NonRepating<java_a7cf075c>",
+            "request": "launch",
+            "mainClass": "NonRepating",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Occcrance<java_a7cf075c>",
+            "request": "launch",
+            "mainClass": "Occcrance",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Palindrome<java_a7cf075c>",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Permut<java_a7cf075c>",
+            "request": "launch",
+            "mainClass": "Permut",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReverEachWord<java_a7cf075c>",
+            "request": "launch",
+            "mainClass": "ReverEachWord",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<java_a7cf075c>",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestArray<java_a7cf075c>",
+            "request": "launch",
+            "mainClass": "TestArray",
+            "projectName": "java_a7cf075c"
+        }
+    ]
+}
